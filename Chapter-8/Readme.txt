@@ -1,2 +1,4 @@
-Chapter 3: Organizing programs and data
+Chapter 8: Writing generic functions
+
+template<class T> T function_name(T a)
 
