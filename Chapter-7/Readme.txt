@@ -2,6 +2,8 @@ Chapter 7: Associative containers
 
 Associative data structure: stores key value pair
 Associative array: In c++ part of library, Most common is called map
+One fundamental difference between map and vector:
+Index of vector need not be an integer.
 Map:
 int main() {
     string s;
