@@ -8,6 +8,7 @@ Spliting a string using vector:
 #include <iostream>
 #include <string>
 #include <vector>
+#include <cctype>
 
 
 std::vector<std::string> split(const std::string& s)
